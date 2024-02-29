@@ -2,8 +2,8 @@
  * This class provides various Skill Builder 5 - Array
  * exercises.
  *
- * @author (you)
- * @version (a version number or a date)
+ * @author (Saniyah L Bullock)
+ * @version (2-28-2024)
  */
 public class SkillBuilder5
 {
